@@ -1,0 +1,8 @@
+{
+  "name": "Gestor de Finanças Pessoais",
+  "description": "Aplicativo completo de finanças pessoais com evolução patrimonial, controle de despesas e receitas, metas de poupança, controle de cartões de crédito, simulador de juros e investimentos, divisão de despesas e insights financeiros gerados por IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
